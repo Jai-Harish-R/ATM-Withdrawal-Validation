@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATM Transaction System
 
 ## Description
@@ -94,3 +95,6 @@ ATM-Transaction-System/
 ## Author
 
 **Jai Harish**
+=======
+# ATM-Withdrawal-Validation
+>>>>>>> 12f7d9aeb474437510a4e54b8b6660b81e5bcb29
